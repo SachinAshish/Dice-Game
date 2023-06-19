@@ -25,7 +25,7 @@ var randomDicechange2="dice"+randomNumber2+".png";
  }
  else if( randomNumber2>randomNumber1){
 
-document.querySelector("h1").innerHTML="Asditya Wins 🚩"
+document.querySelector("h1").innerHTML="Aditya Wins 🚩"
  }
  else{
     document.querySelector("h1").innerHTML="Draw 🎌"
